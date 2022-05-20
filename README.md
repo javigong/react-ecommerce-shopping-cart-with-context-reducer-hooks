@@ -1,6 +1,6 @@
 ## eCommerce Shopping Cart Project
 
-Shopping Cart project with React.js using Context API with useReducer Hook for State Management.
+Shopping Cart project with React.js using React-Bootstrap, Context API with useReducer Hook for State Management.
 
 - [Live Site (Netlify)](https://react-ecommerce-shopping-cart-with-context-reducer-hooks.netlify.app/)
 
